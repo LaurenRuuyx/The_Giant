@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tilemaps
+  - Shootable
+  - Hurtable
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background1
+    uniqueID: 1278445977
+    locked: 0
+  - name: Background2
+    uniqueID: 1580952393
+    locked: 0
+  - name: Background3
+    uniqueID: 2258820909
+    locked: 0
+  - name: Background4
+    uniqueID: 2014742493
+    locked: 0
+  - name: Background5
+    uniqueID: 1294992911
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
